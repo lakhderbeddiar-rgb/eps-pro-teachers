@@ -1,0 +1,6 @@
+{
+  "name": "منصة أستاذ التربية البدنية والرياضية | EPS Pro Teacher",
+  "description": "تطبيق شامل لأستاذ التربية البدنية والرياضية: إدارة الأفواج والتلاميذ، متابعة الحضور، شبكات التقويم والتنقيط، جذاذات الحصص البيداغوجية، الميقاتي الميداني، والسبورة التكتيكية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
